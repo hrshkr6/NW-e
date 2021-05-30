@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          NW website
+          NW Website
         </a>
       </header>
     </div>
