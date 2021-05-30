@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          NauticalWings Website
+          NauticalWings Web 
         </a>
       </header>
     </div>
